@@ -1,3 +1,3 @@
-<b>Modified Hugo Geo Theme<b> <br/>
+<b>Modified Hugo Geo Theme</b> <br/>
 
 Credits - @alexurquhart
