@@ -1,3 +1,5 @@
 <b>Modified Hugo Geo Theme</b> <br/>
 
-Credits - @alexurquhart
+Support for Disqus Comments and Google Analytics<br/>
+
+Base Theme Credits - @alexurquhart
