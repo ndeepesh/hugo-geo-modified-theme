@@ -16,7 +16,8 @@
 </div>
 
 {{ if .Site.DisqusShortname }}
-  {{ template "_internal/disqus.html" . }}
+  {{ partial "disqus.html" . }}
 {{ end }}
 
+{{ partial "analytics.html" . }}
 {{ partial "footer.html" . }}
